@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogerithm</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js"></script>
+    <script src="coupon.js"></script>
+</head>
+<body>
+    <div class="coupon">
+        <div class="card">
+            <article>
+                <div>
+                    <button onClick="closeCoupon()">&times;</button>
+                </div>
+                <img src="https://d2kh7o38xye1vj.cloudfront.net/wp-content/uploads/2021/06/coupon-banner-graphic.png"
+                    alt="coupon">
+                <div><button class="read-more">Redeem Coupon</button></div>
+            </article>
+        </div>
+    </div>
+   <div id="cc">
+    <div id="myDark">
+        <div class="top-nav">
+            <div class="top-nav-left">
+                <a href="http://">About us</a>
+                <a href="http://">Blog</a>
+                <a href="http://">Contact us</a>
+            </div>
+            <div class="top-nav-right">
+                <a href="">
+                    <img src="https://i.ibb.co/dtzG625/facebook.png" alt="fblogo" class="socialLogo" />
+                </a>
+                <a href="">
+                    <img src="https://i.ibb.co/GHKVNYt/insta.png" alt="fblogo" class="socialLogo" />
+                </a>
+                <a href="">
+                    <img src="https://i.ibb.co/w07K2Vn/youtube1.png" alt="fblogo" class="socialLogo" />
+                </a>
+            </div>
+        </div>
+        <div class="header"><img id="blog-img" src="copywriting.png" alt="blog-img">Blogerithm</div>
+        <div class="nav">
+            <div class="nav-left">
+                <a href="http://" ><button>Sign-In/Login</button> </a>
+                <select id="category">
+                    <option value="">Category</option>
+                    <option value="">Fashion</option>
+                    <option value="">Business</option>
+                    <option value="">Technology</option>
+                    <option value="">Traveling</option>
+                </select>
+                <select id="rating">
+                    <option value="">Type</option>
+                    <option value="">Latest</option>
+                    <option value="">Popular</option>
+                    <option value="">Editor's Choice</option>
+                    <option value="">Random</option>
+                </select>
+            </div>
+            <div class="nav-right">
+                <Button id="mode" onclick="changeMode()">Dark Mode</Button>
+                <input type="textarea" placeholder="Search"></input>
+                <button class="search-btn">Go</button>
+            </div>
+        </div>
+        
+        <div class="cardBody">
+            <div class="card">
+                <article>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjyuNy2_WeqE_X8gukWZPlfouvwMlgazQIw&usqp=CAU"
+                        alt="deepika">
+                    <div class="blogby">By TIMESOFINDIA.COM</div>
+                    <div class="caption">Most Beautiful Women in the World</div>
+                    <div class="descrption">Bollywood actress Deepika Padukone was the only. As per the report, The ten most
+                        beautiful women in the world – and their Golden Ratio scores, are – Jodie Comer – 94.52%, Zendaya –
+                        94.37%, Bella Hadid – 94.35%, Beyoncé – 92.44%, Ariana Grande – 91.81%, Taylor Swift – 91.64%,
+                        Jourdan
+                        Dunn – 91.39%, Kim Kardashian – 91.28%, Deepika Padukone 91.22%, HoYeon Jung – 89.63%.</div>
+                    <div><button class="read-more">Read More-></button></div>
+                </article>
+            </div>
+            <div class="card">
+                <img src="https://fiverr-res.cloudinary.com/image/upload/q_auto,f_auto/v1/attachments/generic_asset/asset/aaeee9bfb2a9ef57cff84fbcb8affba9-1593435384621/copywriting%20what%20is%20it.jpg"
+                    alt="email">
+                <div class="blogby">By https://blog.hubspot.com/</div>
+                <div class="caption">Best Signature Fonts for Emails and Documents</div>
+                <div class="descrption"> Email signature fonts play an important role in shaping your tone as a professional
+                    and showcasing your personality. With so many other components in an email, both in terms of content and
+                    design, it can be easy to overlook the sendoff.</div>
+                <div><button class="read-more">Read More-></button></div>
+            </div>
+            <div class="card">
+                <img src="https://blog.hubspot.com/hs-fs/hubfs/Python2v3.jpg?width=595&height=400&name=Python2v3.jpg"
+                    alt="python">
+                <div class="blogby">By Danielle Ellis</div>
+                <div class="caption">Key Differences Between Python 2 and Python 3</div>
+                <div class="descrption">Python 2 and 3 are two of the most popular programming languages that have led to
+                    advancements in various fields, such as Data Science, Software Engineering, and Artificial Intelligence.
+                    They're both incredibly versatile and have a ton of applications. Many people are unsure which version
+                    to learn or whether they should learn at all.</div>
+                <div><button class="read-more">Read More-></button></div>
+            </div>
+           
+            <div class="card">
+                <img src="https://blog.hubspot.com/hs-fs/hubfs/instagram-marketing-small-businesses.jpg?width=595&height=400&name=instagram-marketing-small-businesses.jpg"
+                    alt="instagram marketting">
+                <div class="blogby">By Sam Lauron
+                </div>
+                <div class="caption">Instagram Marketing for Small Businesses: The Complete Guide</div>
+                <div class="descrption">Seventy-one percent of US businesses use Instagram to market their products,
+                    services, and brand to more than one billion users on the app. With a variety of interactive features,
+                    Instagram marketing has become essential for small businesses.</div>
+                <div><button class="read-more">Read More-></button></div>
+            </div>
+            
+            <div class="card">
+                <img src="https://blog.hubspot.com/hs-fs/hubfs/js-onclick.jpg?width=595&height=400&name=js-onclick.jpg"
+                    alt="">
+                <div class="blogby">By Danielle Ellis</div>
+                <div class="caption">How to Use the JavaScript onClick Event: A Step-by-Step Guide</div>
+                <div class="descrption">In this post, we're going to take a look at the onClick event in JavaScript. We'll
+                    start by explaining what it is and then show you how to use it yourself. After reading this post, you'll
+                    be able to add interactivity to your websites using JavaScript.</div>
+                <div><button class="read-more">Read More-></button></div>
+            </div>
+            <div class="card">
+                <img src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/wordpress%20food%20blog%20theme_102022.jpeg?width=595&height=400&name=wordpress%20food%20blog%20theme_102022.jpeg"
+                    alt="">
+                <div class="blogby">By Cassie Wilson</div>
+                <div class="caption">The 21 Best WordPress Food Blog Themes</div>
+                <div class="descrption">Sharing pictures of your dinner on Instagram isn’t just a fun hobby anymore – it’s a
+                    legit blogging business. If you write about food, make sure you choose the best WordPress food blog
+                    theme for your niche.
+                    Sharing pictures of your dinner on Instagram isn’t just a fun hobby anymore – it’s a legit blogging
+                    business. If you write about food, make sure you choose the best WordPress food blog theme for your
+                    niche
+                </div>
+                <div><button class="read-more">Read More-></button></div>
+            </div>
+            <div class="card">
+                <img src="https://blog.hubspot.com/hs-fs/hubfs/color%20schemes.jpg?width=595&height=400&name=color%20schemes.jpg"
+                    alt="">
+                <div class="blogby">By Bethany Cartwright</div>
+                <div class="caption">Color Theory 101</div>
+                <div class="descrption">While text-based content is always important when seeking answers to a question,
+                    creating visuals such as infographics, charts, graphs, animated GIFs, and other shareable images can do
+                    wonders for catching your readers' attention and enhancing your article or report. Knowing color theory
+                    and design can help you make content stand out.</div>
+                <div><button class="read-more">Read More-></button></div>
+            </div>
+        </div>
+        <footer> &#169;Copyright Kushal Das</footer>
+    </div>
+   </div>
+    <script>
+        window.onload = loadCoupon();
+    </script>
+</body>
+
+</html>
