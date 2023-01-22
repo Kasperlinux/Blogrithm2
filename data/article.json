@@ -1,0 +1,235 @@
+[
+    {
+        "article_id" : 1,
+        "category_id" : 1,
+        "average_rating" : 3,
+        "bookmark" : true,
+        "editors_choice" : true,
+        "publisher" : "Anshita Juneja",
+                "caption" : "Pantene Pro V Oil Replacement",
+                "description" : "If I had a dollar for every time someone asked me about my h air care products, I would be a millionaire! My hair photos get the maximum likes and comments on instagram for some reason and while the question doesn’t have an easy answer because I am always changing up things, I will try and answer a part of it in this post.",
+                "img" : "https://vanitynoapologies.com/wp-content/uploads/2017/12/pantene-pro-v-oil-replacement-review-price-how-to-2.jpg"
+    },
+    {
+        "article_id" : 2,
+        "category_id" : 1,
+        "average_rating" : 4,
+        "publisher" : "Contributor ",
+        "caption" : "The Majestic Composition Brands",
+        "description" : "Women stand for royalty. The grace they carry defines elegance & queenly attitude. Whether they attend an evening party with few of the office colleagues or family, or they’re  planning for lunch with a bunch of friends, they won’t step out home without getting into a slaying mood! I have a strong objection to people who say makeup makes you look artificial because there isn’t any harm in making a thing more beautiful than it already is. Agreed?",
+        "img" : "https://vanitynoapologies.com/wp-content/uploads/2017/11/shopperstop-buy-makeup-online-1.jpg"
+    },
+    {
+        "article_id" : 3,
+        "category_id" : 1,
+        "average_rating" : 5,
+        "publisher" : "Pooja ",
+        "caption" : "10 Best Pictures Of Kareena Kapoor Without Makeup",
+        "description" : "Kareena Kapoor Khan, the yummy mummy, is one super gorgeous woman, whom everyone remembers for her flawless beauty. When I say flawless, I actually mean it.",
+        "img" : "https://vanitynoapologies.com/wp-content/uploads/2016/11/Top-10-Pictures-Of-Kareena-Kapoor-Without-Makeup7-1.jpg"
+    },
+    {
+        "article_id" : 4,
+        "category_id" : 1,
+        "average_rating" : 5,
+        "publisher" : "SARAH SPELLINGS",
+        "caption" : "Are Portia’s Outfits on The White Lotus Good or Bad? ",
+        "description" : "At the beginning of last night’s episode of The White Lotus, Tanya McQuoid (Jennifer Coolidge) calls her Gen-Z assistant Portia (Haley Lu Richardson) with an invite to go to Palermo on their new friends’ yacht. “You'll need to pack some cute things. Do you have cute things?” Tanya asks. “Yes,” Portia responds. That is debatable.",
+        "img" : "https://assets.vogue.com/photos/6384e60818a08d6a6638c7fb/master/w_1600,c_limit/jennifer-coolidge-haley-lu-richardson_1.jpg"
+    },
+    {
+        "article_id" : 5,
+        "category_id" : 1,
+        "average_rating" : 4,
+        "publisher" : "CHRISTIAN ALLAIRE",
+        "caption" : "These Were the Year’s 29 Best Vintage Fashion Moments",
+        "description" : "This year, vintage fashion took center stage on the red carpets and in paparazzi shots of celebrities. Whether they were attending a major event or not, Hollywood A-listers made archival fashion feel entirely modern, proving that a well-cut design can stand the test of time.",
+        "img" : "https://assets.vogue.com/photos/62cc8be617ebb911d7f79fb1/master/w_1600%2Cc_limit/GettyImages-1399275665.jpg"
+    },
+    {
+        "article_id" : 6,
+        "category_id" : 2,
+        "average_rating" : 3,
+        "bookmark" : true,
+        "publisher" : "Bloomberg",
+        "caption" : "iPhone exports from India double to surpass $2.5 billion",
+        "description" : "While India makes up just a fraction of iPhone output, rising exports bode well for Prime Minister Narendra Modi’s plan to make the country an alternative to China as factory to the world.",
+        "img" : "https://images.indianexpress.com/2023/01/Apple-featured-image.jpg"
+    },
+    {
+        "article_id" : 7,
+        "category_id" : 2,
+        "average_rating" : 3,
+        "publisher" : "AP",
+        "caption" : "Old NASA satellite falling from sky this weekend",
+        "description" : "Most of the 5,400-pound (2,450-kilogram) satellite will burn up upon reentry, according to NASA. But some pieces are expected to survive.",
+        "img" : "https://images.indianexpress.com/2023/01/Old-NASA-satellite-202230106.jpg"
+    },
+    {
+        "article_id" : 8,
+        "category_id" : 2,
+        "average_rating" : 4,
+        "publisher" : "Ankita Garg",
+        "caption" : "After Amazon, Cisco reportedly fired as many as 700 employees",
+        "description" : "After Amazon, Cisco has reportedly fired hundreds of employees. The tech company has laid off around 700 employees. Here is everything you need to know.",
+        "img" : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/cisco-sixteen_nine.jpg?VersionId=s9tBLqZJnNQ1952MUJSXV2uQH.nrnRpm&size=690:388"
+    },
+    {
+        "article_id" : 9,
+        "category_id" : 2,
+        "average_rating" : 4,
+        "publisher" : "Reuters",
+        "caption" : "US Supreme Court lets Meta’s WhatsApp pursue ‘Pegasus’ spyware suit",
+        "description" : "WhatsApp in 2019 sued NSO seeking an injunction and damages, accusing it of accessing WhatsApp servers without permission six months earlier to install the Pegasus software on victims' mobile devices.",
+        "img" : "https://images.indianexpress.com/2023/01/meta-whatsapp.jpg"
+    },
+    {
+        "article_id" : 10,
+        "category_id" : 2,
+        "average_rating" : 4,
+        "publisher" : "Preethi Cheguri",
+        "caption" : "Elon Musk Announces Major UI Changes",
+        "description" : "Elon Musk, the head of Twitter, revealed that the microblogging service will undergo significant interface changes as well as the potential introduction of a long-form tweet feature at the beginning of February. Musk revealed several forthcoming changes to Twitter’s user interface in a post. He stated in a tweet: “Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger UI overhaul. Bookmark button (de facto silent like) on Tweet details rolls out a week later. Long form tweets early Feb.”",
+        "img" : "https://www.analyticsinsight.net/wp-content/uploads/2023/01/Top-Tech-News-Today-Elon-Musk-Announces-Major-UI-Changes-Twitters-Interface-Will-Alter-FTX-Collapse-Digital-Currency-Group-The-Head-of-Barry-Silberts-Crypto-Empire-Is-Under-Investigations.jpg"
+    },
+    {
+        "article_id" : 11,
+        "category_id" : 3,
+        "average_rating" : 4,
+        "bookmark" : true,
+        "publisher" : "Jagadish Shettigar,Pooja Misra",
+        "caption" : "What does RBI's Financial Stability Report reveal?",
+        "description" : "Gross bad loans at banks have been declining and hit a seven-year low of 5% in September, shows the RBI’s Financial Stability Report (FSR). Its stress tests showed that banks are capable of absorbing shocks even under adverse situations. Mint analyses the report.",
+        "img" : "https://images.livemint.com/img/2023/01/09/600x338/RBI_1673284852838_1673284860560_1673284860560.jpg"
+    },
+    {
+        "article_id" : 12,
+        "category_id" : 3,
+        "average_rating" : 5,
+        "publisher" : "FORTUNEINDIA.COM",
+        "caption" : "India tops Japan to become world’s 3rd largest auto market",
+        "description" : "India surpassed Japan in new auto sales in 2022, making it the third-largest market for the first time, Nikkei Asia reported. The year 2022 saw India selling 4.25 million units of new vehicles, preliminary results show, while more than 4.2 million units were sold in Japan.",
+        "img" : "https://images.assettype.com/fortuneindia%2F2022-02%2Fba3dab9b-a28f-40c0-a63a-4a1d231fb9b1%2Fauto_industry.jpg?rect=0,0,2047,1151&w=1250&q=60"
+    },
+    {
+        "article_id" : 13,
+        "category_id" : 3,
+        "average_rating" : 5,
+        "publisher" : "ENS Economic Bureau",
+        "caption" : "TCS profit rises 11% in Q3 to Rs. 10,846 crore",
+        "description" : "India’s top IT company Tata Consultancy Services Ltd (TCS) on Monday reported a net profit of Rs 10,846 crore for the third quarter ended December 2022 as against Rs 9,769 crore in the same period of last year, a rise of 11.02 per cent.",
+        "img" : "https://images.indianexpress.com/2023/01/tcs-q3.jpg"
+    },
+    {
+        "article_id" : 14,
+        "category_id" : 3,
+        "average_rating" : 3,
+        "publisher" : "SANDIP DAS",
+        "caption" : "Buzzing Stocks | Tata Steel, IDBI Bank, SBI Cards, and others in news today",
+        "description" : "India business production up 4.2% at 5 million tonne and delivery volumes down 3.6% at 4.73 million tonne, QoQ. Europe business production down 6.25% at 2.25 million tonne and Europe business Delivery volumes up 4.8% at 1.96 million tonne, QoQ.",
+        "img" : "https://images.moneycontrol.com/static-mcnews/2022/10/Steel.jpg"
+    },
+    {
+        "article_id" : 15,
+        "category_id" : 3,
+        "average_rating" : 4,
+        "publisher" : "ET Bureau",
+        "caption" : "Ease of doing business is not just Centre's responsibility alone",
+        "description" : "Finance minister Nirmala Sitharaman Sunday said ease of doing business was not Central government's responsibility alone and there was a need to improve it at the state, district, municipality and even panchayat level.",
+        "img" : "https://img.etimg.com/thumb/msid-96835457,width-300,height-225,imgsize-28758,,resizemode-75/bad-loans-worth-rs-10-lakh-crore-written-off-by-banks-in-last-five-financial-years-says-nirmala-sitharaman.jpg"
+    },
+    {
+        "article_id" : 16,
+        "category_id" : 4,
+        "average_rating" : 4,
+        "bookmark" : true,
+        "publisher" : "Sans Charles",
+        "caption" : "Trip to Goa",
+        "description" : "Famous for its pristine beaches, hippie vibes, laidback lifestyle and vibrant parties, Goa is counted among the best holiday destinations in India. The union territory is frequented by tourists year-round, especially in the winter season when the climate is pleasant, and the entire place comes alive with Christmas and New Year celebrations. However, seasoned tourists do not shun Goa during summer either. If you are looking for a peaceful and economical holiday, try to visit Goa during the offseason when the sun-kissed beaches, flea markets and other attractions are less crowded.",
+        "img" : "https://www.fabhotels.com/blog/wp-content/uploads/2015/10/shutterstock_177087344.jpg"
+    },
+    {
+        "article_id" : 17,
+        "category_id" : 4,
+        "average_rating" : 3,
+        "publisher" : "Viney Roy",
+        "caption" : "Agra Attractions",
+        "description" : "Say Agra and the first thing that comes to mind is the magnificent Taj Mahal, one of the Seven Wonders of the World. This beautiful city with its rich historical background is situated in Uttar Pradesh, on the banks of River Yamuna. It is counted among the top holiday destinations for architecture lovers and history buffs, thanks to many amazing Mughal architectural masterpieces that adorn the cityscape. No matter how many times you visit Agra, the charm of the Taj Mahal and other monuments will never fail to impress. The city is a treat for shopaholics and foodies as well.",
+        "img" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/04/Agra1.jpg"
+    },
+    {
+        "article_id" : 18,
+        "category_id" : 4,
+        "average_rating" : 3,
+        "publisher" : "Cui-Cui Blogs",
+        "caption" : "Ancient Rajasthan",
+        "description" : "The land of kings, Rajasthan is a vibrant state that attracts history buffs, architecture lovers, wildlife enthusiasts and foodies alike. It lies in the north-western part of India and boasts an impressive amalgamation of natural beauty and manmade structures. From beautiful lakes, vast deserts and rich wildlife to magnificent palaces, forts and temples, the city has so many things for a wonderful vacation. What’s more, a road trip here takes you through several small and beautiful villages showcasing rich Rajasthani culture and traditions. Rajasthan is one of those best tourist places in India that you can visit again and again.",
+        "img" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Amer-Fort.jpg"
+    },
+    {
+        "article_id" : 19,
+        "category_id" : 4,
+        "average_rating" : 3,
+        "publisher" : "SANDIP DAS",
+        "caption" : "My Coorg trip",
+        "description" : "Surrounded by majestic mountain ranges and boasting a lush green landscape, Coorg or Kodagu is yet another cliched holiday destination that is worth the hype. This hill station is in the state of Karnataka and a popular weekend getaway for nature lovers and solace seekers. From lush green hills and sparkling streams to quaint villages and vast expanses of coffee and spice plantations, the charm of Coorg is unmatchable. Since Coorg enjoys pleasant weather year-round, it is a popular destination for people in Bangalore who are looking to escape the city chaos.",
+        "img" : "https://www.fabhotels.com/blog/wp-content/uploads/2018/05/Coorg-2.jpg"
+    },
+    {
+        "article_id" : 20,
+        "category_id" : 4,
+        "average_rating" : 5,
+        "publisher" : "Sonia Malhotra",
+        "caption" : "Munnar",
+        "description" : "Nestled in the Western Ghats in the state of Kerala, Munnar is counted among the most serene and beautiful tourist places in India. The hill station boasts impeccable natural beauty in the form of rolling hills, scenic valleys, virgin forests, waterfalls, streams, national parks, tea and spice plantations and winding walkways. However, it is the unmissable colonial charm of Munnar that attracts many tourists time and again. The hill station was a popular holiday destination for the British and you can see many churches, English colonial bungalows and cottages and other structures here.",
+        "img" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/09/Munnar-Kerala.jpg"
+    },
+    {
+        "article_id" : 21,
+        "category_id" : 5,
+        "average_rating" : 5,
+        "bookmark" : true,
+        "publisher" : "ANDREW HEATON",
+        "caption" : "Sons of the Forest Will Have an AI Companion for Solo Players",
+        "description" : "Sons of the Forest, the upcoming follow-up to 2018's horror survival game The Forest, will have an AI companion that can do the player's bidding.",
+        "img" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/sons-of-the-forest.jpg?q=50&fit=contain&w=767&h=&dpr=1.5"
+    },
+    {
+        "article_id" : 22,
+        "category_id" : 5,
+        "average_rating" : 2,
+        "publisher" : "HANNAH (TYLER) DAHLBERG",
+        "caption" : "Inside The Backrooms: Every Entity, Ranked By Their Scare Factor",
+        "description" : "Inside The Backrooms is just one of several indie horror games based on the Backrooms urban legend. These are the game's most terrifying entities.",
+        "img" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/inside-the-backrooms-scariest-entities-(1).jpg?q=50&fit=contain&w=767&h=&dpr=1.5"
+    },
+    {
+        "article_id" : 23,
+        "category_id" : 5,
+        "average_rating" : 1,
+        "publisher" : "OPHÉLIE CASTELOT",
+        "caption" : "Overwatch 2 Exploit Makes Wrecking Ball Much Better",
+        "description" : "IA new Overwatch 2 trick turns Wrecking Ball into an undefeatable threat, making him one of the best tanks to play in competitive games.",
+        "img" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/overwatch-2-wrecking-ball-hammond.jpg?q=50&fit=contain&w=767&h=&dpr=1.5"
+    },
+    {
+        "article_id" : 24,
+        "category_id" : 5,
+        "average_rating" : 2,
+        "editors_choice" : true,
+        "publisher" : "MIGUEL LUIS LLADO",
+        "caption" : "Resident Evil Fan Recreates Barry Burton's Samurai Edge Gun",
+        "description" : "A big fan of the Resident Evil series takes their fandom one step further by replicating Barry Burton's custom Samurai Edge handgun.",
+        "img" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/resident-evil-fan-recreates-barry-burton-samurai-edge-gun-gamerant.jpg?q=50&fit=contain&w=767&h=&dpr=1.5"
+    },
+    {
+        "article_id" : 25,
+        "category_id" : 5,
+        "average_rating" : 2,
+        "editors_choice" : true,
+        "publisher" : " Evan Lahti ",
+        "caption" : "One month after its release, one of our favorite games of 2022 is already $20 off",
+        "description" : "The silver medal went to Marvel's Midnight Suns (on sale at Steam for $40), the strategy-card-RPG-campaign game from Firaxis, otherwise known as the folks that made XCOM. Why'd we hand out this first-ever second-place GOTY? Midnight Suns came out just as we were wrapping up our awards process, and the fact that it was a 65+ hour game made it harder for editors to finish in a holiday period where we were already unnaturally busy.",
+        "img" : "https://cdn.mos.cms.futurecdn.net/Aets2hD7Kcwfm2ZBGbPsiN-970-80.jpg.webp"
+    }
+]

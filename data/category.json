@@ -1,0 +1,22 @@
+[
+    {
+        "categoty_id": 1,
+        "category_name": "Fashion"
+    },
+    {
+        "categoty_id": 2,
+        "category_name": "Technology"
+    },
+    {
+        "categoty_id": 3,
+        "category_name": "Business"
+    },
+    {
+        "categoty_id": 4,
+        "category_name": "Travel"
+    },
+    {
+        "categoty_id": 5,
+        "category_name": "Games"
+    }
+]
